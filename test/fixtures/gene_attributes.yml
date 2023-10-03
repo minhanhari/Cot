@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  gene_sym: MyString
+  probe_id: MyString
+  gene_id: 1
+  cell_line: MyString
+  cell_desc: MyString
+  cell_id: MyString
+  weight: 1.5
+
+two:
+  gene_sym: MyString
+  probe_id: MyString
+  gene_id: 1
+  cell_line: MyString
+  cell_desc: MyString
+  cell_id: MyString
+  weight: 1.5
